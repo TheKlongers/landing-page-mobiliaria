@@ -179,3 +179,22 @@ span {
     padding-right: 5px;
     border-radius: 5px;
 }
+
+/* Media Queries for Responsiveness */
+@media screen and (max-width: 768px) {
+    /* Mobile and Small Tablet */
+    p, .Sobre img, .Serviços p, .Contato p, .Contato ul, .Corretores img {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    /* Tablet */
+    .secao-topo p {
+        font-size: 14px;
+    }
+    
+    p, .Sobre img, .Serviços p, .Contato p, .Contato ul, .Corretores img {
+        width: 80%;
+    }
+}
