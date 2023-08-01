@@ -1,0 +1,181 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    font-family: tahoma;
+    margin: 0%;
+}
+
+div {
+    padding-top:30px;
+    padding-bottom:30px;
+    text-align: center;
+
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    line-height: 28px;
+    width: 980px;
+    text-align: justify;
+}
+
+.secao-topo {
+    background-color:#b0ddfc;
+    padding-top:30px;
+    padding-top:30px;
+}
+
+.secao-topo img {
+    width: 150px;
+}
+
+.secao-topo p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.secao-topo a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: solid 2px #1d1d1d;
+    text-decoration: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.banner {
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+
+span {
+    font-weight: bold;
+}
+
+.Sobre h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.Sobre h2 {
+    color: #1c81c0;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+.Sobre img {
+    width: 450px;
+}
+
+.Sobre span {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.Serviços {
+    background-color: #1d80c1;
+}
+
+.Serviços h2 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.Serviços p {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.Serviços span {
+    font-weight: bold;
+    color: #fff81b;
+}
+
+.Serviços ul {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.Corretores h2 {
+    color: #1c81c0;
+    font-weight: bold;
+    margin-top: 0;
+
+}
+
+.Corretores img {
+    width: 450px;
+}
+
+.Corretores span {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.Contato {
+    background-color: #1d80c1;
+}
+
+.Contato h2 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.Contato p {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.Contato span {
+    font-weight: bold;
+    color: #fff81b;
+}
+
+.Contato ul {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Contato li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.Contato a {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
